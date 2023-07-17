@@ -1,0 +1,66 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background: url(Fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.contenedor-menu{
+    background-color: #DC143C;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contenedor-menu p{
+    margin-left: 1rem;
+    font-size: 2.5rem;
+}
+
+.menu{
+    margin-right: 1rem;
+}
+
+span{
+    font-size: 1.9rem;
+    font-weight: 700;
+    color: black;
+}
+
+.menu a{
+    text-decoration: none;
+    color: white;
+}
+
+.contenedor-titular{
+    color: white;
+    margin-top: 24rem;
+    text-align: center;
+}
+
+.contenedor-principal{
+    text-align: center;
+}
+
+footer P{
+    text-align: center;
+    color: white;
+}
+
+footer{
+    background: black;
+    padding: 4rem;
+}
+
